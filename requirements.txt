@@ -1,0 +1,10 @@
+numpy
+pandas
+scikit-learn
+yfinance
+newsapi-python
+nltk
+transformers
+torch
+joblib
+matplotlib
